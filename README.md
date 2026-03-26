@@ -112,6 +112,17 @@ python download.py --download --out ~/AlbiBNL
 
 ---
 
+## Repozitář
+
+Zdrojový kód: [github.com/pavelprokes/AlbiDownloader](https://github.com/pavelprokes/AlbiDownloader)
+
+```bash
+git clone https://github.com/pavelprokes/AlbiDownloader.git
+cd AlbiDownloader
+```
+
+---
+
 ## Licence / použití
 
 Používej v souladu s podmínkami webu a jen pro osobní zálohování obsahu, ke kterému máš oprávnění. Tento projekt není oficiální produkt Albi.
