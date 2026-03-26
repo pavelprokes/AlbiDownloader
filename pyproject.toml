@@ -1,0 +1,27 @@
+[project]
+name = "albi-downloader"
+version = "0.1.0"
+description = "Download BNL audio packages from Kouzelné čtení (kouzelnecteni.cz) — manifest CSV and optional fetch from albidownload.eu."
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = [
+  "albi",
+  "kouzelne-cteni",
+  "magical-reading",
+  "bnl",
+  "downloader",
+  "playwright",
+  "web-scraping",
+  "scraping",
+  "python",
+  "czech",
+  "czech-republic",
+  "audio",
+  "audiobook",
+  "pen-reader",
+  "albi-pen",
+]
+
+[project.urls]
+Homepage = "https://github.com/pavelprokes/AlbiDownloader"
+Repository = "https://github.com/pavelprokes/AlbiDownloader"

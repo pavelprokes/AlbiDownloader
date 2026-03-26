@@ -144,6 +144,15 @@ Skript nejdřív zkontroluje tyto složky: pokud tam stejnojmenný soubor už je
 
 Zdrojový kód: [github.com/pavelprokes/AlbiDownloader](https://github.com/pavelprokes/AlbiDownloader)
 
+**Klíčová slova / témata (GitHub Topics):** na stránce repa v *Settings → General → Topics* můžeš doplnit např.  
+`python`, `albi`, `kouzelne-cteni`, `bnl`, `downloader`, `playwright`, `web-scraping`, `czech`, `audio`, `audiobook` — přehled je také v souboru `pyproject.toml` u pole `keywords`.
+
+S [GitHub CLI](https://cli.github.com/) (po `gh auth login`):
+
+```bash
+gh repo edit pavelprokes/AlbiDownloader --add-topic python --add-topic albi --add-topic kouzelne-cteni --add-topic bnl --add-topic downloader --add-topic playwright --add-topic web-scraping --add-topic czech --add-topic audio
+```
+
 ```bash
 git clone https://github.com/pavelprokes/AlbiDownloader.git
 cd AlbiDownloader
