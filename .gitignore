@@ -1,0 +1,21 @@
+# virtualenv
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# generated / local data
+downloads/
+albi_downloads.csv
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
